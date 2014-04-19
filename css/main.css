@@ -1,0 +1,25 @@
+html {
+	background-color: #F2E9D8;
+	margin: 30px;
+}
+
+.headline {
+	font-family: 'Share Tech Mono';
+	text-align: right;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+p {
+	color: #2A3140;
+}
+
+a {
+	text-decoration: none;
+	color: #0DB3D9;
+}
+
+footer {
+	font-family: sans-serif;
+	font-size: 80%;
+	padding-top: 10px
+}
