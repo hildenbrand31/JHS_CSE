@@ -1,5 +1,5 @@
 html {
-	background-color: #F2E9D8;
+	background-color: #D4CEBE;
 	margin: 30px;
 }
 
@@ -7,19 +7,47 @@ html {
 	font-family: 'Share Tech Mono';
 	text-align: right;
 	text-shadow: 4px 4px 4px #aaa;
+	color: #690400;
 }
 
 p {
-	color: #2A3140;
+	color: #293136;
 }
 
 a {
 	text-decoration: none;
-	color: #0DB3D9;
+	color: #5C832F;
 }
 
 footer {
 	font-family: sans-serif;
 	font-size: 80%;
 	padding-top: 10px
+}
+
+nav {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 5px 0 0 46px;
+	background: #690400;
+}
+nav a:link, a:visited {
+	float: left;
+	display: block;
+	text-decoration: none;
+	color: #bbb;
+	margin: 0 1px 0 0;
+	padding: 4px 8px;
+	border: 1px solid #D4CEBE;
+	border-bottom: none;
+	background: #690400;
+	font-size: 80%;
+	font-family: "Lucida Grande", sans-serif;
+}
+
+nav a:hover, body#home #n-home, body#projects #n-projects, body#lessons #n-lessons, body#fun #n-fun {
+	color: #690400;
+	padding-bottom: 5px;
+	background: #D4CEBE;
 }
