@@ -15,6 +15,8 @@ Starting with a simple site I hope my students will learn some of the following 
 - php
 - MySQL
 
-Anyway, that's the list and the order I think makes sense. And that's the order I'm going to follow building this site. I may revisit the decision to not include one of the popular CMS packages in the future but for now I want the students to get the idea of what can be accomplished in a text editor and at the command-line.
+Anyway, that's the list with an order I think makes sense. And that's the order I'm going to follow building this site. This site was relaunched on April 21, 2014 with just html. The other features are being added over time.
+
+I may revisit the decision to not include one of the popular CMS packages in the future but for now I want the students to get the idea of what can be accomplished in a text editor and at the command-line.
 
 The site is currently behind a firewall and accessible only on our school Intranet. I hope to get out IT staff to route it through the firewall.  If that happens you can visit at this address [http://cse.gjcs.k12.in.us](http://cse.gjcs.k12.in.us). I'm not holding out hope that they will purchase an SSL certificate so it will be unencrypted for now.
