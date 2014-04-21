@@ -46,7 +46,7 @@ nav a:link, a:visited {
 	font-family: "Lucida Grande", sans-serif;
 }
 
-nav a:hover, body#home #n-home, body#projects #n-projects, body#lessons #n-lessons, body#fun #n-fun {
+nav a:hover, body#home #n-home, body#projects #n-projects, body#resources #n-resources, body#fun #n-fun {
 	color: #690400;
 	padding-bottom: 5px;
 	background: #D4CEBE;
