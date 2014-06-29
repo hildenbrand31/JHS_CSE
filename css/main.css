@@ -1,6 +1,7 @@
 html {
 	background-color: #D4CEBE;
 	margin: 30px;
+	min-width: 632px;
 }
 
 .headline {
@@ -16,7 +17,17 @@ p {
 
 a {
 	text-decoration: none;
-	color: #5C832F;
+	color: #686868;
+}
+
+a:visited {
+	color: #808080;
+}
+
+ul {
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
 }
 
 footer {
@@ -32,7 +43,7 @@ nav {
 	padding: 5px 0 0 46px;
 	background: #690400;
 }
-nav a:link, a:visited {
+nav a {
 	float: left;
 	display: block;
 	text-decoration: none;
