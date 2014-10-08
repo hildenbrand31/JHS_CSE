@@ -1,28 +1,30 @@
 html {
-	background-color: #D4CEBE;
-	margin: 30px;
+	
+}
+
+body {
+	background-image: url(http://cse.gjcs.k12.in.us/img/bg.jpg);
+}
+
+.page {
 	min-width: 632px;
+	max-width: 1050px;
+	margin: 0 auto;
+	background-color: #fbfbff;
+	padding: 30px;
 }
 
 .headline {
 	font-family: 'Share Tech Mono';
 	text-align: right;
-	text-shadow: 4px 4px 4px #aaa;
-	color: #690400;
+	text-shadow: 4px 2px 2px #aaa;
+	color: #1319c2;
 }
 
 p {
 	color: #293136;
 }
 
-a {
-	text-decoration: none;
-	color: #686868;
-}
-
-a:visited {
-	color: #808080;
-}
 
 ul {
 	columns: 3;
@@ -41,24 +43,28 @@ nav {
 	width: 100%;
 	margin: 0;
 	padding: 5px 0 0 46px;
-	background: #690400;
+	background: #1319c2;
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 nav a {
 	float: left;
 	display: block;
 	text-decoration: none;
-	color: #bbb;
+	color: #fff;
 	margin: 0 1px 0 0;
 	padding: 4px 8px;
-	border: 1px solid #D4CEBE;
+	border: 1px solid #fff;
 	border-bottom: none;
-	background: #690400;
+	background: #1319c2;
 	font-size: 80%;
 	font-family: "Lucida Grande", sans-serif;
 }
 
 nav a:hover, body#home #n-home, body#projects #n-projects, body#resources #n-resources, body#fun #n-fun {
-	color: #690400;
+	color: #1319c2;
 	padding-bottom: 5px;
-	background: #D4CEBE;
+	background: #fff;
 }
+
